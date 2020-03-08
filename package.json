@@ -1,0 +1,26 @@
+{
+  "name": "design-a-table",
+  "version": "1.0.0",
+  "description": "designing a table",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node --version",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pko104/design-a-table.git"
+  },
+  "keywords": [
+    "design"
+  ],
+  "author": "peter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pko104/design-a-table/issues"
+  },
+  "homepage": "https://github.com/pko104/design-a-table#readme",
+  "dependencies": {
+    "vue-burger-menu": "^2.0.4"
+  }
+}

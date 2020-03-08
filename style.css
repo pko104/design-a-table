@@ -1,0 +1,17 @@
+body{
+	overflow-anchor: none;
+    font-family: "GT-Eesti 3r",Arial,sans-serif;
+    font-size: 14px;
+    background-color: #fff;
+    color: #363636;
+}
+#heading{
+	font-size:30px;
+	margin: auto;
+	position: relative;
+	text-align: center;
+	color: 	#D3D3D3;
+	background: #A9A9A9;
+	height: 70px;
+	padding-top: 5px;
+}
